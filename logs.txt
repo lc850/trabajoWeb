@@ -1,0 +1,35 @@
+commit 1aaec9204642a92bdfa3ddc30f92a80a2279eed9
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Thu Apr 7 08:40:12 2016 -0600
+
+    footer
+
+commit 9db58724552626957bae33dbe738e1838497413e
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Thu Apr 7 08:33:47 2016 -0600
+
+    Cuerpo de la pagina logo y parrafo
+
+commit b18c873f968387f13513e3107bbecc509a47416b
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Thu Apr 7 08:27:30 2016 -0600
+
+    Estructura con Bootstrap
+
+commit db3996c7ce1faf5b98be4f6e62bc3061ed0728d4
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Thu Apr 7 08:23:27 2016 -0600
+
+    Integracion de bootstrap
+
+commit 3ec392a6fffb43df266b5d59a62c416efa8c1536
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Thu Apr 7 08:21:00 2016 -0600
+
+    titulo de la pagina
+
+commit 28a7bbee63899cc1b20f0493105cde6f46006e3c
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Thu Apr 7 08:16:47 2016 -0600
+
+    Pagina en blanco
